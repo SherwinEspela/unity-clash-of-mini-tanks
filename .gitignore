@@ -70,3 +70,47 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.dll
+*.dylib
+*.meta
+UnityClashOfMiniTanks/Assets/_TerrainAutoUpgrade/
+UnityClashOfMiniTanks/Assets/3DModels/
+UnityClashOfMiniTanks/Assets/AnimationClipsFolder/
+UnityClashOfMiniTanks/Assets/Audio/
+UnityClashOfMiniTanks/Assets/CGPitbull/
+UnityClashOfMiniTanks/Assets/DataFiles/
+UnityClashOfMiniTanks/Assets/EasyTouchBundle/
+UnityClashOfMiniTanks/Assets/Editor Default Resources/
+UnityClashOfMiniTanks/Assets/Exploder/
+UnityClashOfMiniTanks/Assets/Extensions/
+UnityClashOfMiniTanks/Assets/FastShadows/
+UnityClashOfMiniTanks/Assets/Fonts/
+UnityClashOfMiniTanks/Assets/FORGE3D/
+UnityClashOfMiniTanks/Assets/Gizmos/
+UnityClashOfMiniTanks/Assets/iMG Explosion FX/
+UnityClashOfMiniTanks/Assets/JMO Assets/
+UnityClashOfMiniTanks/Assets/Materials/
+UnityClashOfMiniTanks/Assets/ModernGunEffects/
+UnityClashOfMiniTanks/Assets/Music/
+UnityClashOfMiniTanks/Assets/NavMeshComponents/
+UnityClashOfMiniTanks/Assets/Package/
+UnityClashOfMiniTanks/Assets/Painterly Terrain Textures/
+UnityClashOfMiniTanks/Assets/Particle Playground/
+UnityClashOfMiniTanks/Assets/Prefabs/
+UnityClashOfMiniTanks/Assets/ProCore/
+UnityClashOfMiniTanks/Assets/Plugins/
+UnityClashOfMiniTanks/Assets/SD Tank Pack - WWII/
+UnityClashOfMiniTanks/Assets/ShurikenMagic/
+UnityClashOfMiniTanks/Assets/TextMesh Pro/
+UnityClashOfMiniTanks/Assets/Textures/
+UnityClashOfMiniTanks/Assets/VisionTimer/
+UnityClashOfMiniTanks/Library/
+UnityClashOfMiniTanks/obj/
+UnityClashOfMiniTanks/PlaygroundCache/
+UnityClashOfMiniTanks/ProjectSettings/
+UnityClashOfMiniTanks/Assets/Standard Assets/
+UnityClashOfMiniTanks/Assets/Sprites/
+UnityClashOfMiniTanks/Packages/
+UnityClashOfMiniTanks/Logs/
+*.asset
+*.xml
